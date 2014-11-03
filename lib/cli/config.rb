@@ -2,7 +2,7 @@ require "yaml"
 require 'fileutils'
 
 require 'rubygems'
-require 'json/pure'
+require 'json/ext'
 
 module VMC::Cli
   class Config

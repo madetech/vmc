@@ -10,7 +10,7 @@
 #
 
 require 'rubygems'
-require 'json/pure'
+require 'json/ext'
 require 'open-uri'
 
 require File.expand_path('../const', __FILE__)
