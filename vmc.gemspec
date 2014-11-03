@@ -20,7 +20,7 @@ spec = Gem::Specification.new do |s|
   s.add_dependency "rest-client", ">= 1.6.1", "< 1.7.0"
   s.add_dependency "terminal-table", "~> 1.4.2"
   s.add_dependency "interact", "~> 0.4.0"
-  s.add_dependency "addressable", "~> 2.2.6"
+  s.add_dependency "addressable", "~> 2.3.6"
   s.add_dependency "uuidtools", "~> 2.1.0"
   s.add_dependency "rb-readline", "~> 0.4.2"
 
